@@ -45,8 +45,9 @@
 
 ### Assignments
 ------------------------
-[Assignment 2 HTML](dennisstassen.github.io/Assignment2/)  
-[Assignment 2 Presentation](dennisstassen.github.io/Assignment2/presentation)
+[Assignment 2 HTML](dennisstassen.github.io/Assignment2)  
+[Assignment 2 Presentation](dennisstassen.github.io/Assignment2/presentation)  
+[Assignment 3](dennisstassen.github.io/thirdassignment)
 
 ### References
 ----------------
